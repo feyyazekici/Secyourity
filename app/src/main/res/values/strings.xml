@@ -1,0 +1,35 @@
+<resources>
+    <string name="uyg_adi">Secyourity</string>
+    <string name="giris">Giriş Yap</string>
+    <string name="email">Email</string>
+    <string name="gir_is">Giriş Yap</string>
+    <string name="gir">Giriş Yap</string>
+    <string name="uye_degil_kaydol">Üye değil misiniz? Kaydol!</string>
+    <string name="password">Şifre</string>
+    <string name="SecYourIty">SecYourIty Uygulaması</string>
+    <string name="SecYour_Ity">SECYOURITY</string>
+    <string name="baglanti_cogaltma_kaldir">Bağlantı Çoğaltma Kaldırıcı</string>
+    <string name="hesap_var_giris_yap">Hesabınız Var Mı? Giriş Yap!</string>
+    <string name="sifre_onay">Parola Onayla</string>
+    <string name="mobil_numara">Mobil Numara</string>
+    <string name="parola_kaydet">Şifre</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="kaydol_button">Kaydol</string>
+    <string name="parola_degis">Değiştir</string>
+    <string name="parola_onayla_kaybet">Parola Onayla</string>
+    <string name="yeni_parola_kaybet">Yeni Parola</string>
+    <string name="parola_kaybet_giris">Şifremi Unuttum?</string>
+    <string name="iletisim_backup">İletişim yedeği</string>
+    <string name="iletisim_restore">İletişim yenileme</string>
+    <string name="baglanti_cogaltma_kaldirici">Bağlantı Çoğaltma Kaldırıcı</string>
+    <string name="baslik_ana_sayfa_ata">ATA_ana_sayfa</string>
+
+    <string name="navigasyon_cizici_ac">Navigasyon çizicisini aç</string>
+    <string name="navigasyon_cizici_kapa">Navigasyon çizicisini kapa</string>
+
+    <string name="action_ayarlar">Ayarlar</string>
+    <string name="alternatif_numara">Alternatif Numara</string>
+    <string name="title_activity_contact_textview">contact_textview</string>
+    <string name="basari_mesaj">Başarıyla Kaydolundu.</string>
+
+</resources>

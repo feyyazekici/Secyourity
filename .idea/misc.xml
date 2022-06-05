@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/drawable/bt_uisquare.xml" value="0.492" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/drawable/button_background.xml" value="0.492" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/drawable/button_homepage.xml" value="0.492" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/activity_enter_pin.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/activity_forgot_pin.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/activity_home.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/activity_main.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/activity_reset_pin.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/activity_set_pin.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_anasayfa.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_ayarlar.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_giris.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_hak.xml" value="0.25" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_hakkinda.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_reset_sifre.xml" value="0.33" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_sifre_ayarla.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_sifre_gir.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/layout/aktivite_sifre_unut.xml" value="0.35" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/menu/aktivite_menu.xml" value="0.18" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/AntiTheftApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.492" />
+        <entry key="..\:/Users/Feyyaz/Desktop/Proje/Secyourity/app/src/main/res/layout/aktivite_reset_sifre.xml" value="0.35" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
